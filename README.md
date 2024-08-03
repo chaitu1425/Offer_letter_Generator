@@ -14,7 +14,7 @@ pip install kivy,pip install pandas,pip install docxtpl.
    - Place the values that are to be fetched from the excel with {{value}} in the word
    - save the file with offerletter1.docx
 2. Create the Data:
-   - Create the excel with required fields for the certificate to be generate.
+   - Create the excel with required fields for the offerletter to be generate.
    - Save the file with offerletter_data.xlsx
       
 3. Running:
