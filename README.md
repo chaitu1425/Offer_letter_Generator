@@ -21,6 +21,7 @@ pip install kivy,pip install pandas,pip install docxtpl.
    - Execute the Python file "offer_letter_generator.py"
    ![WhatsApp Image 2024-08-04 at 01 23 58_b18eead0](https://github.com/user-attachments/assets/43b0e8cc-c6cf-456d-a7ae-64f726c1fd8e)
    - Select the "offerletter_data.xlsx" from the files listed
+     ![WhatsApp Image 2024-08-04 at 01 24 58_14f91a69](https://github.com/user-attachments/assets/2cd13377-8e16-4bfa-8127-723bdf395686)
    - Click on the generate offer letter button to generate offerletters
    - Then follow to the directory and offer letter folder will be generated and with Offer_letters consisting offerletter according to the domain with the name and file with the name.
    ![WhatsApp Image 2024-08-04 at 01 23 32_902f8818](https://github.com/user-attachments/assets/4306ad6c-9544-4f90-b4db-0bcd83d289be)
