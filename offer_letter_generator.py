@@ -66,15 +66,15 @@ class OfferLetterGenerator(App):
 
         doc.save(offer_letter_path)
         popup_layout = BoxLayout(orientation='vertical', padding=10, spacing=10)
-        popup = Popup(title=f'Offer Letter for {name}', content=popup_layout, size_hint=(None, None), size=(400, 300))
+        # popup = Popup(title=f'Offer Letter for {name}', content=popup_layout, size_hint=(None, None), size=(400, 300))
         
 
-        close_button = Button(text='Close')
-        close_button.bind(on_press=popup.dismiss)
-        popup_layout.add_widget(close_button)
+        # close_button = Button(text='Close')
+        # close_button.bind(on_press=popup.dismiss)
+        # popup_layout.add_widget(close_button)
         
-        popup.open()
-        
+        # popup.open()
+
 if __name__ == '__main__':
     OfferLetterGenerator().run()
 
