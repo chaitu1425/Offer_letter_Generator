@@ -75,6 +75,6 @@ class OfferLetterGenerator(App):
         
         # popup.open()
 
-if __name__ == '__main__':
+ if __name__ == '__main__':
     OfferLetterGenerator().run()
 
